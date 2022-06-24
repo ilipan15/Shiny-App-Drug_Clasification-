@@ -1,5 +1,8 @@
 # Shiny-App-Drug_Clasification
 
+![alt text](https://github.com/ilipan15/Shiny-App-Drug_Clasification-/issues/1#issue-1284160409/image.jpg?raw=true)
+
+
 ## The Shiny App
 Our job was to build a decision tree and a random forest (using the patient’s profile as features and the drug types as classes) to find out which drug might be appropriate for a future patient with the same illness. 
 The Shiny app created for the task, has been made with non-proficient users in mind. A patient's profile can be manipulated (i.e., the age of the subject), based on the selected features a different classification will appear (please refer to the step-by-step explanations included in the app).
