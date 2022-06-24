@@ -1,6 +1,6 @@
 # Shiny-App-Drug_Clasification
 
-![alt text](https://github.com/ilipan15/Shiny-App-Drug_Clasification-/issues/1#issue-1284160409/image.jpg?raw=true)
+![health](https://user-images.githubusercontent.com/90454554/175664584-1336505e-aa15-4706-b925-005ec84c80cd.jpg)
 
 
 ## The Shiny App
