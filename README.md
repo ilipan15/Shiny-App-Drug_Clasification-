@@ -8,6 +8,9 @@ Our job was to build a decision tree and a random forest (using the patient’s 
 The Shiny app created for the task, has been made with non-proficient users in mind. A patient's profile can be manipulated (i.e., the age of the subject), based on the selected features a different classification will appear (please refer to the step-by-step explanations included in the app).
 Please, bear in mind that the app was created for illustrating purposes and in this example, sex has no significance on the classification.
 
+- The app can be also found [here](https://izm1so-iliana0panagiotidou.shinyapps.io/SMM636_Group_13/?_ga=2.185292137.1911346645.1646404815-870455823.1646404815)
+
 ## Dataset
 The data is collected from a set of patients who suffered from the same illness during a treatment, which consists of two parts: 1) the patient’s profile, including Age, Sex, Blood Pressure (BP), Cholesterol, and Sodium-potassium Pump (Na_to_K). 
 2) the five drugs (A, B, C, X, Y) that patients responded to.
+
